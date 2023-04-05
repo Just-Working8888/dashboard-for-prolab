@@ -1,0 +1,16 @@
+[
+  { "id": 1, "name": "Medical treatment everywhere" },
+  { "id": 2, "name": "COVID-19" },
+  { "id": 3, "name": "Sport injuries" },
+  { "id": 4, "name": "No cost limit" },
+  { "id": 5, "name": "Assistance & direct billing" },
+  { "id": 6, "name": "Hospital visits" },
+  { "id": 7, "name": "Medical support" },
+  { "id": 8, "name": "Repatriation" },
+  { "id": 9, "name": "Pregrancy" },
+  { "id": 10, "name": "Postnatal care up to $55,000" },
+  { "id": 11, "name": "Emergency dental treatment" },
+  { "id": 12, "name": "Medication & materials" },
+  { "id": 13, "name": "Treatment for pain relief up to €500 per case" },
+  { "id": 14, "name": "Initial mental issue treatment up to $1,250" }
+]
